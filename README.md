@@ -1,0 +1,2 @@
+# verbose-tribble
+verbose world
